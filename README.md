@@ -8,3 +8,4 @@ PASS_SEC = Your Secret Phrase </br>
 JWT_SEC = Your JWT Secret </br>
 SECRET_KEY = Your Secret Key </br>
 P_ID = Your P_ID
+.
